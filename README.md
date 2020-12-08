@@ -3,5 +3,8 @@ We were so preoccupied with whether or not we could, that we didn't stop to thin
 this is a bit fun
 
 
-![](UI Figure 2020-12-08 23-41-31.mp4)
+![Hejhallå](UI Figure 2020-12-08 23-41-31.mp4)
 
+<video width="320" height="240" controls>
+  <source src="UI Figure 2020-12-08 23-41-31.mp4" type="video/mp4">
+</video>
